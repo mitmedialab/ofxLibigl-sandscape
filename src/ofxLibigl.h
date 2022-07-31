@@ -25,6 +25,13 @@
 #include <igl/colormap.h>
 #include <igl/bounding_box_diagonal.h>
 #include <igl/massmatrix.h>
+#include <igl/grad.h>
+#include <igl/boundary_loop.h>
+#include <igl/map_vertices_to_circle.h>
+#include <igl/harmonic.h>
+#include <igl/avg_edge_length.h>
+#include <igl/barycenter.h>
+#include <igl/principal_curvature.h>
 
 
 

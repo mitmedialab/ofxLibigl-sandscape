@@ -1,2 +1,0 @@
-ofxEigen
-ofxLibigl
